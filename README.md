@@ -9,6 +9,11 @@ alive cell percentage : 20%
 number of simulated turns : 100
 rules : death and reproduction
 
+[test](Capture d'écran (49).png)
+
+
+
+
 ![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/tour1.png)
 
 
