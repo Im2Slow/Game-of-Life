@@ -2,7 +2,7 @@
 
 3rd semester solo project as an ESILV student : Conway's Game of Life
 
-------------------------SCREENSHOTS----------------------------------
+------------------------------------------------------------SCREENSHOTS-----------------------------------------------------------------
 
 matrix size : 50 
 alive cell percentage : 20%
