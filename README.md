@@ -14,7 +14,7 @@ rules : death and reproduction
 
 
 
-![alt text](https://github.com/Im2Slow/Game-of-Life/raw/master/Capture d’écran (49).png)
+![alt text](https://github.com/Im2Slow/Game-of-Life/raw/master/pic1.png)
 
 
 
@@ -22,7 +22,7 @@ rules : death and reproduction
 
 
 
-![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/Capture d’écran (50).png)
+![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/pic2.png)
 
 
 
@@ -30,7 +30,7 @@ rules : death and reproduction
 
 
 
-![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/Capture d’écran (51).png)
+![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/pic3.png)
 
 
 
@@ -38,11 +38,11 @@ rules : death and reproduction
 
 
 
-![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/Capture d’écran (52).png)
+![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/pic4.png)
 
 
 
 
 
 
-![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/Capture d’écran (53).png)
+![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/pic5.png)
