@@ -9,8 +9,35 @@ alive cell percentage : 20%
 number of simulated turns : 100
 rules : death and reproduction
 
-![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/1.png)
-![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/2.png)
-![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/3.png)
-![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/4.png)
-![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/5.png)
+![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/Capture d’écran (49).png)
+
+
+
+
+
+
+
+![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/Capture d’écran (50).png)
+
+
+
+
+
+
+
+![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/Capture d’écran (51).png)
+
+
+
+
+
+
+
+![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/Capture d’écran (52).png)
+
+
+
+
+
+
+![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/Capture d’écran (53).png)
