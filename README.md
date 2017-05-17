@@ -14,7 +14,7 @@ rules : death and reproduction
 
 
 
-![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/master/tour1.png)
+![alt text](https://raw.githubusercontent.com/Im2Slow/Game-of-Life/Capture d’écran (49).png)
 
 
 
